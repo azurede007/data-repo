@@ -1,0 +1,14 @@
+{
+"empid":100,
+"empname":"Romin",
+"designation":"developer",
+"skills":["java","python","scala"],
+"address":{"zipcode":"200435","city":"mumbai","state":"MH"}
+}
+{
+"empid":101,
+"empname":"Neil",
+"designation":"WebDeveloper",
+"skills":["HTML","JQuery","Nodejs"],
+"address":{"zipcode":"600010","city":"chennai","state":"TN"}
+}

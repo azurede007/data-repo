@@ -1,0 +1,3 @@
+{"id": 1, "name": "Vimal", "age": 25}
+{"id": 2, "name": "Karthick", "age": 30}
+{"id": 3, "name": "Abinav", "details": {"city": "Chennai", "dept": "IT"}}
